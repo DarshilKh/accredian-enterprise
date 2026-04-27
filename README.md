@@ -2,8 +2,8 @@
 
 A pixel-accurate, fully responsive **Next.js 16** clone of [enterprise.accredian.com](https://enterprise.accredian.com/).
 
-**Live Demo:** https://accredian-enterprise-black-six.vercel.app/
-**GitHub:** https://github.com/DarshilKh/accredian-enterprise
+- **Live Demo:** https://accredian-enterprise-black-six.vercel.app/
+- **GitHub:** https://github.com/DarshilKh/accredian-enterprise
 
 ---
 
